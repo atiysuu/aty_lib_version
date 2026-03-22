@@ -1,4 +1,9 @@
 {
-  "version": "1.1.5",
-  "changelog": []
+  "version": "1.2.0",
+  "changelog": [
+    "You no longer have to get stuck in the `TriggerCallback` function; the `cb()` system has been added.",
+    "The bridge file and function data are now in the unencrypted section, so you can customize the inventory, framework, and other elements as you like.",
+    "The previously encrypted open.lua file has been unlocked.",
+    "The OpenStash (client) and RegisterStash (server) functions have been added.",
+  ]
 }

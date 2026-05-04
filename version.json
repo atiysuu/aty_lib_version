@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "changelog": [
-    "Integrated a built-in screen shot system that works with fivemanage or discord webhook"
+    "Fixed a critical issue with the AddVehicleToPlayer function."
   ]
 }
